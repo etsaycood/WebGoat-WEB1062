@@ -53,7 +53,7 @@ public class WebGoatIntroduction extends NewLesson {
 
     @Override
     public String getTitle() {
-        return "webgoat.title";
+        return "webgoat.titles";
     }
 
     @Override
